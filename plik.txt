@@ -1,0 +1,6 @@
+To jest przykładowy tekst, który zawiera kilka różnych wzorców.
+Przykładowo, mamy wzorzec abc w tym tekście.
+A oto inne wzorce: 123, test, i jeszcze jeden: pattern.
+Czy znajdziesz hello w tym zdaniu?
+Niektóre wzorce mogą być ukryte.
+Na przykład wzorzec: abc123testpatternhello.
